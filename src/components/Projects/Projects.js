@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import ecell from "../../Assets/Projects/e-cell.png";
 import intellihire from "../../Assets/Projects/intellihire.png";
 import esummit from "../../Assets/Projects/e-summit .png";
+//this is 
 
 function Projects() {
   return (
